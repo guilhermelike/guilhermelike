@@ -10,7 +10,7 @@
 </div>
 
 ##  Cursando Análise e Desenvolvimento de Sistemas na
-##  <span style="color:red";>Universidade Federal do Paraná </span>
+###   ***Universidade Federal do Paraná ***
 
   ##
  
