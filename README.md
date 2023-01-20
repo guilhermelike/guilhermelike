@@ -9,8 +9,8 @@
           
 </div>
 
-## Cursando Análise e Desenvolvimento de Sistemas na
-## Color:`#0969DA` Universidade Federal do Paraná
+## !!! Cursando Análise e Desenvolvimento de Sistemas na
+## !!! {c:purple} Universidade Federal do Paraná
 
   ##
  
