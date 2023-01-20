@@ -9,8 +9,8 @@
           
 </div>
 
-## !!! Cursando Análise e Desenvolvimento de Sistemas na !!!
-## !!! {c:purple} Universidade Federal do Paraná {/c}
+##  Cursando Análise e Desenvolvimento de Sistemas na !!!
+##  {c:purple} Universidade Federal do Paraná {/c}
 
   ##
  
