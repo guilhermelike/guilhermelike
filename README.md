@@ -1,8 +1,3 @@
-<style>
-red { color: red }
-yellow { color: yellow }
-</style>
-
 # Front-End Developer
 [![Guilhermelike's GitHub stats](https://github-readme-stats.vercel.app/api?username=guilhermelike&count_private=true&show_icons=true&theme=midnight-purple)](https://github.com/guilhermelike/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermelike&theme=midnight-purple)](https://github.com/guilhermelike/github-readme-stats)
@@ -15,7 +10,7 @@ yellow { color: yellow }
 </div>
 
 ##  Cursando Análise e Desenvolvimento de Sistemas na
-##  <red> Universidade Federal do Paraná </red>
+##  <span style="color:red";>Universidade Federal do Paraná </span>
 
   ##
  
@@ -24,6 +19,6 @@ yellow { color: yellow }
   <a href = "mailto:gfbatista1gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="[https://www.linkedin.com/in/guilherme-franco-batista-878277219/]" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href = "https://open.spotify.com/user/pbaaad0sh4s76v8dimb25guwm"> <img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" target="_blanck"></a>
-  <a href = "[https://steamcommunity.com/id/ixquilocs/]"> <img src="[https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white)" target="_blanck"></a>
+  <a href = "https://steamcommunity.com/id/ixquilocs/"> <img src="(https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white)" target="_blanck"></a>
   
 </div>
